@@ -1,7 +1,4 @@
-<!-- HEADER FUTURISTA MINIMALISTA -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:000000&height=200&section=header&text=&animation=fadeIn"/>
-</div>
+
 
 <!-- NOMBRE CON TIPOGRAFÍA ELEGANTE -->
 <div align="center">
