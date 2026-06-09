@@ -1,7 +1,4 @@
-<!-- BANNER FUTURISTA MONOCROMÁTICO -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:434343,100:ffffff&height=280&section=header&text=KEVIN%20CANO&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%3C%2F%3E%20SOFTWARE%20DEVELOPER%20%E2%97%86%20AI%20AUTOMATION%20%E2%97%86%20CONTINUOUS%20LEARNER&descAlignY=58&descAlign=50&descSize=15&fontStyle=bold" width="100%"/>
-</div>
+
 
 <!-- LÍNEA DECORATIVA FUTURISTA -->
 <div align="center">
@@ -28,7 +25,7 @@
 
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/>
-  &nbsp;&nbsp;[ SOBRE_MÍ ]&nbsp;&nbsp;
+  &nbsp;&nbsp; SOBRE_MÍ &nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/>
 </h2>
 
@@ -39,37 +36,6 @@
 - 🟢 **Estado:** Aprendiendo y construyendo cada día
 
 <br/>
-
-<h3 align="center">⚡ ÁREAS DE INTERÉS</h3>
-
-<div align="center">
-
-| 🎯 ENFOQUE | 📡 DESCRIPCIÓN |
-|:----------:|:---------------|
-| 💻 **DESARROLLO DE SOFTWARE** | `Construyendo soluciones robustas y escalables` |
-| ⚙️ **AUTOMATIZACIÓN** | `Optimizando procesos con código inteligente` |
-| 🧠 **INTELIGENCIA ARTIFICIAL** | `Explorando el futuro de la tecnología` |
-| 🤖 **AGENTES AUTÓNOMOS** | `Creando sistemas que piensan y actúan` |
-
-</div>
-
-<br/>
-
-<h3 align="center">🎖️ SOFT_SKILLS // HABILIDADES</h3>
-
-<div align="center">
-
-![Agilidad](https://img.shields.io/badge/⚡_AGILIDAD-000000?style=for-the-badge&logoColor=white&labelColor=000000)
-![Honestidad](https://img.shields.io/badge/🤝_HONESTIDAD-FFFFFF?style=for-the-badge&logoColor=black&labelColor=FFFFFF)
-![Teamwork](https://img.shields.io/badge/👥_TEAM_WORK-000000?style=for-the-badge&logoColor=white&labelColor=000000)
-![Problem Solving](https://img.shields.io/badge/🧩_PROBLEM_SOLVING-FFFFFF?style=for-the-badge&logoColor=black&labelColor=FFFFFF)
-![Communication](https://img.shields.io/badge/💬_COMMUNICATION-000000?style=for-the-badge&logoColor=white&labelColor=000000)
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
-</div>
 
 ---
 
@@ -138,6 +104,28 @@
 </div>
 
 ---
+
+<h3 align="center">⚡ ÁREAS DE INTERÉS</h3>
+
+<div align="center">
+
+| 🎯 ENFOQUE | 📡 DESCRIPCIÓN |
+|:----------:|:---------------|
+| 💻 **DESARROLLO DE SOFTWARE** | `Construyendo soluciones robustas y escalables` |
+| ⚙️ **AUTOMATIZACIÓN** | `Optimizando procesos con código inteligente` |
+| 🧠 **INTELIGENCIA ARTIFICIAL** | `Explorando el futuro de la tecnología` |
+| 🤖 **AGENTES AUTÓNOMOS** | `Creando sistemas que piensan y actúan` |
+
+</div>
+
+<br/>
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+</div>
+
+
 
 <h2 align="center">📊 GITHUB_ANALYTICS 📊</h2>
 
