@@ -1,4 +1,8 @@
-
+<!-- HEADER FUTURISTA MINIMALISTA -->
+<div align="center">
+  <!-- HEADER FUTURISTA CLARO -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:f0f0f0,50:e8e8ff,100:ffffff&height=220&section=header&text=Kevin%20Cano&fontSize=52&fontColor=111111&fontFamily=Georgia&animation=fadeIn&fontAlignY=55&desc=Software%20Developer%20%26%20AI%20Engineer&descSize=16&descAlignY=75&descAlign=50"/>
+</div>
 
 <!-- NOMBRE CON TIPOGRAFÍA ELEGANTE -->
 <div align="center">
