@@ -32,32 +32,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/>
 </h2>
 
-<!-- TARJETA DE IDENTIDAD FUTURISTA -->
-<div align="center">
-
-```
-  ╔══════════════════════════════════════════════════════════════╗
-  ║   ▓▓▓  USER_PROFILE.exe ▓▓▓                                  ║
-  ║   ────────────────────────────────────────────────────────   ║
-  ║   > ID........: KEVIN CANO                                   ║
-  ║   > ROLE......: SOFTWARE DEVELOPER & AI ENGINEER             ║
-  ║   > EDUCATION.: TÉCNICO EN PROGRAMACIÓN DE SOFTWARE          ║
-  ║   > STATUS....: [██████████] 100% ONLINE                     ║
-  ╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br/>
-
-<h3 align="center">🌐 IDIOMAS / LANGUAGES</h3>
-
-<div align="center">
-
-![Español](https://img.shields.io/badge/🇪🇸_ESPAÑOL-NATIVO-FFFFFF?style=for-the-badge&labelColor=000000)
-![Inglés](https://img.shields.io/badge/🇬🇧_ENGLISH-B2_INTERMEDIATE-000000?style=for-the-badge&labelColor=FFFFFF)
-
-</div>
+- 👨‍💻 **Nombre:** Kevin Cano
+- 🚀 **Rol:** Software Developer & AI Engineer
+- 🎓 **Formación:** Técnico en Programación de Software
+- 🌎 **Idiomas:** Español (Nativo) · Inglés (B2)
+- 🟢 **Estado:** Aprendiendo y construyendo cada día
 
 <br/>
 
@@ -85,16 +64,6 @@
 ![Teamwork](https://img.shields.io/badge/👥_TEAM_WORK-000000?style=for-the-badge&logoColor=white&labelColor=000000)
 ![Problem Solving](https://img.shields.io/badge/🧩_PROBLEM_SOLVING-FFFFFF?style=for-the-badge&logoColor=black&labelColor=FFFFFF)
 ![Communication](https://img.shields.io/badge/💬_COMMUNICATION-000000?style=for-the-badge&logoColor=white&labelColor=000000)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-> ```diff
-> + 🟢 STATUS: Aprendiendo y construyendo cada día
-> ```
 
 </div>
 
@@ -208,4 +177,75 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  > 
+║  > Crecer en áreas de alto impacto tecnológico:          ║
+║                                                          ║
+║    ◆ Desarrollo de Software                              ║
+║    ◆ Inteligencia Artificial                             ║
+║    ◆ Automatización Empresarial                          ║
+║    ◆ Agentes Inteligentes                                ║
+║    ◆ Transformación Digital                              ║
+║                                                          ║
+║  > Misión: Crear soluciones innovadoras que generen      ║
+║    impacto real y optimicen procesos complejos.          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<h2 align="center">📚 CURRENTLY_RUNNING 📚</h2>
+
+```diff
++ 🤖 Explorando agentes autónomos con IA
++ ⚙️ Construyendo soluciones de automatización empresarial
++ 🧠 Aprendiendo nuevas arquitecturas de IA generativa
++ 🚀 Desarrollando proyectos de productividad y optimización
+```
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+</div>
+
+---
+
+<h2 align="center">📡 ESTABLECER_CONEXIÓN 📡</h2>
+
+<div align="center">
+  <a href="https://github.com/Kevincano218-eng" target="_blank">
+    <img src="https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+  </a>
+  <a href="https://www.linkedin.com/in/kevin-cano-marulanda-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=FFFFFF" />
+  </a>
+  <a href="mailto:kevincano218@gmail.com">
+    <img src="https://img.shields.io/badge/-EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+  </a>
+</div>
+
+<br/>
+
+<!-- CONTADOR DE VISITAS -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kevincano218-eng&label=PROFILE+VIEWS&color=ffffff&style=for-the-badge" alt="visitors" />
+  <img src="https://img.shields.io/github/followers/Kevincano218-eng?label=FOLLOWERS&style=for-the-badge&color=ffffff&labelColor=000000" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"La tecnología alcanza su máximo potencial cuando transforma procesos complejos en soluciones simples y eficientes."*
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4cb142834.gif" width="500"/>
+
+</div>
+
+<!-- FOOTER FUTURISTA -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:434343,100:000000&height=180&section=footer&text=THANKS%20FOR%20VISITING&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=70"/>
