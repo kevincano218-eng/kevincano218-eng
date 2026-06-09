@@ -159,28 +159,6 @@
 
 ---
 
-<h2 align="center">🎯 OBJETIVO_PROFESIONAL 🎯</h2>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║  > Crecer en áreas de alto impacto tecnológico:          ║
-║                                                          ║
-║    ◆ Desarrollo de Software                              ║
-║    ◆ Inteligencia Artificial                             ║
-║    ◆ Automatización Empresarial                          ║
-║    ◆ Agentes Inteligentes                                ║
-║    ◆ Transformación Digital                              ║
-║                                                          ║
-║  > Misión: Crear soluciones innovadoras que generen      ║
-║    impacto real y optimicen procesos complejos.          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
 
 <h2 align="center">📚 CURRENTLY_RUNNING 📚</h2>
 
