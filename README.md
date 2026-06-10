@@ -1,8 +1,23 @@
-<!-- HEADER CON NOMBRE Y SUBTÍTULO INTEGRADOS EN LA OLA -->
-<!-- HEADER CON NOMBRE Y SUBTÍTULO INTEGRADOS EN LA OLA -->
+<!-- HEADER FUTURISTA MINIMALISTA -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:000000&height=280&section=header&text=Hi!%20I'm%20Kevin%20Cano.&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Software%20Developer%20%26%20AI%20Engineer&descSize=16&descAlignY=65&descAlign=50&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:000000&height=200&section=header&text=&animation=fadeIn"/>
 </div>
+
+<!-- NOMBRE CON TIPOGRAFÍA ELEGANTE -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=Hi!+I'm+Kevin+Cano.)](https://git.io/typing-svg)
+
+</div>
+
+<!-- SUBTÍTULO ANIMADO -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=2000&pause=800&color=888888&center=true&vCenter=true&width=600&height=40&lines=Software+Developer+%26+AI+Engineer_;&+Building+intelligent+systems+from+scratch_;&+Exploring+the+edges+of+AI_)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
 
 <!-- GIF CENTRAL MINIMALISTA -->
 <div align="center">
