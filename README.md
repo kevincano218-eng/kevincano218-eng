@@ -5,12 +5,16 @@
 
 <!-- NOMBRE CON TIPOGRAFÍA ELEGANTE -->
 <div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=Hi!+I'm+Kevin+Cano.)](https://git.io/typing-svg)
+
 </div>
 
 <!-- SUBTÍTULO ANIMADO -->
 <div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=2000&pause=800&color=888888&center=true&vCenter=true&width=600&height=40&lines=Software+Developer+%26+AI+Engineer_;&+Building+intelligent+systems+from+scratch_;&+Exploring+the+edges+of+AI_)](https://git.io/typing-svg)
+
 </div>
 
 <br/>
