@@ -1,9 +1,8 @@
 <!-- HEADER CON NOMBRE Y SUBTÍTULO INTEGRADOS EN LA OLA -->
+<!-- HEADER CON NOMBRE Y SUBTÍTULO INTEGRADOS EN LA OLA -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:000000&height=280&section=header&text=Hi!+I'm+Kevin+Cano.&fontSize=48&fontColor=ffffff&fontFamily=Playfair+Display&fontAlignY=45&desc=Software+Developer+%26+AI+Engineer&descSize=16&descAlignY=65&descAlign=50&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:000000&height=280&section=header&text=Hi!%20I'm%20Kevin%20Cano.&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Software%20Developer%20%26%20AI%20Engineer&descSize=16&descAlignY=65&descAlign=50&animation=fadeIn"/>
 </div>
-
-<br/>
 
 <!-- GIF CENTRAL MINIMALISTA -->
 <div align="center">
